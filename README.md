@@ -10,7 +10,7 @@ c = float(input("Enter coefficient c: "))<br>
 print("Discriminant (D) =", D)<br>
 <br>
 # Nature of roots,<br>
-if D > 0:<br>
+<p>if D > 0:</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("The equation has real and distinct roots.")<br>
 elif D == 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("The equation has real and equal roots.")<br>
