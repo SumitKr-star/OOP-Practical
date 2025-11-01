@@ -6,7 +6,7 @@ a = float(input("Enter coefficient a: "))<br>
 b = float(input("Enter coefficient b: "))<br>
 c = float(input("Enter coefficient c: "))<br>
 <br>
-<p># Calculate discriminant
+<p># Calculate discriminant</p>
 D = b**2 - 4*a*c
 <br>
 print("Discriminant (D) =", D)<br>
