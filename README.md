@@ -1,6 +1,6 @@
 # Python Practicals
 # 1. Write a program to find the nature of the roots of a quadratic equation
-<p>#Quadratic Equation: ax^2 + bx + c = 0
+<p># Quadratic Equation: ax^2 + bx + c = 0
 
 <p># Input coefficients</p>
 a = float(input("Enter coefficient a: "))<br>
