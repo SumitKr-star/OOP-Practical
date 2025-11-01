@@ -13,9 +13,9 @@ print("Discriminant (D) =", D)<br>
 <br>
 <p># Nature of roots,</p>
 if D > 0:<br>
-    print("The equation has real and distinct roots.")<br>
+</pre>print("The equation has real and distinct roots.")<br>
 elif D == 0:<br>
-    print("The equation has real and equal roots.")<br>
+<pre>print("The equation has real and equal roots.")<br>
 else:<br>
     print("The equation has imaginary (complex) roots.")
 
