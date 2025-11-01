@@ -1,17 +1,17 @@
 # Python Practicals
 # 1. Write a program to find the nature of the roots of a quadratic equation
-<p2>Quadratic Equation: ax^2 + bx + c = 0</p2>
-
-# Input coefficients
-a = float(input("Enter coefficient a: "))
-b = float(input("Enter coefficient b: "))
-c = float(input("Enter coefficient c: "))
-
-# Calculate discriminant
-D = b**2 - 4*a*c
-print("Discriminant (D) =", D)
-
-# Nature of roots
+<p>#Quadratic Equation: ax^2 + bx + c = 0</p>
+<br>
+<p># Input coefficients</p>
+a = float(input("Enter coefficient a: "))<br>
+b = float(input("Enter coefficient b: "))<br>
+c = float(input("Enter coefficient c: "))<br>
+<br>
+<p># Calculate discriminant</p>
+D = b**2 - 4*a*c<br>
+print("Discriminant (D) =", D)<br>
+<br>
+<p># Nature of roots,</p>
 if D > 0:
     print("The equation has real and distinct roots.")
 elif D == 0:
