@@ -1,6 +1,6 @@
 # Python Practical
-1. Write a program to find the nature of the roots of a quadratic equation
-2. &nbsp;&nbsp;<pre>
+## 1. Write a program to find the nature of the roots of a quadratic equatio
+...
 # Quadratic Equation: ax^2 + bx + c = 0
 
 a = float(input("Enter coefficient a: "))
@@ -19,4 +19,4 @@ elif D == 0:
     print("The equation has real and equal roots.")
 else:
     print("The equation has imaginary (complex) roots.")
-    </pre>
+...
