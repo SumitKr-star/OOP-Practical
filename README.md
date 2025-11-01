@@ -1,6 +1,6 @@
 # Python-Practicals
 1. Write a program to find the nature of the roots of a quadratic equation
-2. # Quadratic Equation: ax^2 + bx + c = 0
+2. 3Quadratic Equation: ax^2 + bx + c = 0
 
 a = float(input("Enter coefficient a: "))
 b = float(input("Enter coefficient b: "))
@@ -11,7 +11,7 @@ D = b**2 - 4*a*c
 
 print("Discriminant (D) =", D)
 
-# Nature of roots
+#Nature of roots
 if D > 0:
     print("The equation has real and distinct roots.")
 elif D == 0:
