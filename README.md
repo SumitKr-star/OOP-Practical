@@ -9,9 +9,8 @@ c = float(input("Enter coefficient c: "))<br>
 <p>D = b**2 - 4*a*c</p
 print("Discriminant (D) =", D)<br>
 <br>
-<p># Nature of roots,<br>
-if D > 0: 
-  
+# Nature of roots,<br>
+if D > 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("The equation has real and distinct roots.")<br>
 elif D == 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("The equation has real and equal roots.")<br>
